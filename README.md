@@ -23,10 +23,13 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 # DESIGN:
 Design a second oder Butterworth filter with thw upper cutoff frequency of 1KHz.
+<img width="749" height="1280" alt="image" src="https://github.com/user-attachments/assets/817ab34c-508a-43b4-991c-30f1cc5a3c89" />
 
 # TABULATION:
+![WhatsApp Image 2025-11-25 at 01 15 49_3487804e](https://github.com/user-attachments/assets/0c908dc0-dba5-48ec-aad1-59a7ef3126ca)
 
 # GRAPH:
+![WhatsApp Image 2025-11-25 at 01 16 26_576eb68d](https://github.com/user-attachments/assets/45bc6fb9-cc84-48e8-a816-a75d8896e8a3)
 
 # THEORY:
 # HIGH PASS FILTER
@@ -43,10 +46,13 @@ A LPF allows frequencies from 0 to higher cut of frequencThe frequency at which 
 
 # DESIGN:
 Design a second oder Butterworth filter with thw lower cutoff frequency of 1KHz.
+<img width="749" height="1280" alt="image" src="https://github.com/user-attachments/assets/64dde99b-a2f3-4ff0-bb27-2448b6e0fb74" />
 
 # TABULATION:
+![WhatsApp Image 2025-11-25 at 01 16 41_cfc1eb01](https://github.com/user-attachments/assets/ab41946a-b131-48c6-a613-60d8570af168)
 
 # GRAPH:
+![WhatsApp Image 2025-11-25 at 01 17 10_f0267f8f](https://github.com/user-attachments/assets/a62fb8c6-409f-4f92-9a23-eec375ed3297)
 
 # THEORY:
 # BAND PASS FILTER
@@ -62,10 +68,13 @@ A band pass filter has a pass band between two cutoff frequencies fH and fL such
 
 # DESIGN:
 Design a BPF to pass a band of 400Hz to 2KHz with a pass band gain of 4.
+<img width="749" height="1280" alt="image" src="https://github.com/user-attachments/assets/f5e5d324-c203-4c6e-a0b5-b720f4340f77" />
 
 # TABULATION:
+![WhatsApp Image 2025-11-25 at 01 17 27_6ee5a766](https://github.com/user-attachments/assets/6ad27e0a-6422-420c-966c-60d4347b402d)
 
 # GRAPH:
+![WhatsApp Image 2025-11-25 at 01 17 52_fd4151ea](https://github.com/user-attachments/assets/ffdf2f99-dc9f-4462-9492-a90ace5522fe)
 
 # PROCEDURE - (LPF & HPF):
 1. Connect the circuit as shown in the circuit diagram.
@@ -84,3 +93,4 @@ Design a BPF to pass a band of 400Hz to 2KHz with a pass band gain of 4.
 
 
 # RESULT
+![WhatsApp Image 2025-11-25 at 01 19 50_355f7124](https://github.com/user-attachments/assets/6702b726-a2a8-42d2-ab8e-3f9c987b1f3b)
